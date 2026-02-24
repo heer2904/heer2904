@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I'm a Computer Student at Brunel Univercity 
+I'm studying Computer Science at Brunel University London 
 
 <!--
 **heer2904/heer2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
